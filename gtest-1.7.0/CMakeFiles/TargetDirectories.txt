@@ -1,0 +1,4 @@
+/home/student/Desktop/PSE_V2/gtest-1.7.0/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/PSE_V2/gtest-1.7.0/CMakeFiles/gtest.dir
+/home/student/Desktop/PSE_V2/gtest-1.7.0/CMakeFiles/edit_cache.dir
+/home/student/Desktop/PSE_V2/gtest-1.7.0/CMakeFiles/gtest_main.dir
